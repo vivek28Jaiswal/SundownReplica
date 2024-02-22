@@ -12,8 +12,7 @@ LEARNING !!
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  
-  />https://www.instagram.com/the.vivekxzz/
+  <img href="https://www.instagram.com/the.vivekxzz/" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  
 </div>
 
 ###
